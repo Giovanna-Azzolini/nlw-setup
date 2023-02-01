@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O app Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o site do projeto online]. (https://giovanna-azzolini.github.io/nlw-setup/)
+- [Visite o site do projeto online] (https://giovanna-azzolini.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
